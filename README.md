@@ -9,7 +9,7 @@ I'm a Software Engineer,who currently works as a Junior Developer at Cubeclick L
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I finished from Boolean [Full Stack Developer](https://boolean.co.uk) Class of 2024.
-- 🌱 I’m currently working JavaScript, Reactjs, and NodeJs, NestJs, Typescript,mongoDB, MySQL, prisma, 
+- 🌱 I’m currently working with JavaScript, Reactjs, and NodeJs, NestJs, Typescript,mongoDB, MySQL, prisma, 
 - 💼 Job interests: Software Engineer, Backend Engineer, or NodeJs Developer 
 - 📫 You can [view my resume](#) and contact me by emailing tayodurotoye@gmail.com.
 
